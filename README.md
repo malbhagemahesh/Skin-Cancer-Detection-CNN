@@ -9,7 +9,6 @@ A deep learning-based approach to detect and classify skin cancer using Convolut
 | File Name                                | Description                                    |
 |------------------------------------------|------------------------------------------------|
 | `Skin-Cancer-Detection.ipynb`            | Main Jupyter notebook for CNN implementation  |
-| `Skin-Cancer-Detection-Presentation.pptx`| Final project presentation for academic review |
 
 ---
 
@@ -52,12 +51,6 @@ A deep learning-based approach to detect and classify skin cancer using Convolut
 ## ⚠️ Disclaimer
 
 This project is for academic and research purposes only. It is **not approved for clinical use** or real-time diagnosis.
-
----
-
-## 📷 Demo (Optional)
-
-You can add model training accuracy/loss curves or classification outputs here in the future.
 
 ---
 
