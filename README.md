@@ -40,13 +40,6 @@ A deep learning-based approach to detect and classify skin cancer using Convolut
 
 ---
 
-## 🧑‍🤝‍🧑 Contributors
-
-- **Mahi** – [GitHub](https://github.com/malbhagemahesh)
-- [Pratham Raka](https://github.com/PrathamRaka)
-
----
-
 ## 📌 Future Improvements
 
 - Deploy the model as a web app using **Streamlit** or **Flask**
