@@ -4,6 +4,10 @@ A deep learning-based approach to detect and classify skin cancer using Convolut
 
 ---
 
+> 📄 **Published on IEEE Xplore:** [Skin Cancer Detection using CNN – IEEE Xplore](https://ieeexplore.ieee.org/document/10346792)
+
+---
+
 ## 📁 Files in This Repository
 
 | File Name                                | Description                                    |
@@ -19,14 +23,6 @@ A deep learning-based approach to detect and classify skin cancer using Convolut
 - Convolutional Neural Networks (CNN)
 - Matplotlib & Seaborn for visualization
 - Google Colab / Jupyter Notebook
-
----
-
-## 📊 Dataset Information
-
-- **Dataset Source**: [ISIC Archive](https://www.isic-archive.com/)
-- **Classes**: Benign, Malignant
-- **Preprocessing**: Image resizing, normalization, augmentation
 
 ---
 
